@@ -13,7 +13,7 @@ I'm an M.Sc. student in Robotics, Cognition, Intelligence at TUM, with a solid b
 **Contact:**
 - **Email:** [leon-greiner@t-online.de](mailto:leon-greiner@t-online.de)
 - **Website:** [leongreiner.github.io](https://leongreiner.github.io/)
-- **LinkedIn:** [linkedin.com/in/leongreiner](https://linkedin.com/in/leongreiner)
+- **LinkedIn:** [linkedin.com/in/leon-greiner](https://www.linkedin.com/in/leon-greiner/)
 - **Wandb:** [wandb.ai/profile/leon-greiner](https://wandb.ai/profile/leon-greiner)
 
 *Currently based in Munich, Germany.*
